@@ -1,0 +1,12 @@
+.ending-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100vh;
+
+}
+.score {
+	color: rgb(0, 157, 255);
+	font-weight: bold;
+}
